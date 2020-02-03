@@ -39,3 +39,4 @@ Lexing phase is important for:
 
 [Astronaut Web Co. - What is Lexical Scope Anyway?](https://astronautweb.co/javascript-lexical-scope/)
 [Medium.com - Javascript evaluator part 1: Lexing](https://medium.com/@retep007/javascript-lexing-for-high-performance-f9a800ec930d)
+[Medium.com - Javascript’s lexical scope, hoisting and closures without mystery](https://medium.com/@nickbalestra/javascripts-lexical-scope-hoisting-and-closures-without-mystery-c2324681d4be)
