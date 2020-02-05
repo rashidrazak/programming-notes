@@ -4,6 +4,9 @@ Lexical scope is a scope model that is used by JavaScript language.
 Some other languages use dynamic scope, which is totally different when compared to lexical scope.
 In lexical scope, the scope is defined at `lexing` time.
 
+**Note**<br>
+*Everything in JavaScript is using lexical scope, except for the `this` keyword*
+
 ## What is lexing time?
 
 Commonly, source code compilation consists of these 3 steps/phases:
