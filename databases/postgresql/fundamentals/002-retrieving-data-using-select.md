@@ -18,3 +18,11 @@ Note: column name can be repeated multiple times. Example:
 SELECT name, name, name FROM cities;
 ```
 
+## Calculated Column
+
+We can do mathematical calculation in our query as such:
+
+```postgresql
+SELECT name, population / area AS population_density
+FROM cities;
+```
